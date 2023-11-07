@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_blue">Blue</string>
+    <string name="_identity">IDENTITY</string>
+    <string name="_class">Class</string>
+    <string name="_ok">OK</string>
+    <string name="_19">2019</string>
+    <string name="_20">2020</string>
+    <string name="_21">2021</string>
+    <string name="_22">2022</string>
+    <string name="_green">Green</string>
+    <string name="_red">Red</string>
+    <string name="_favcol">Favorite Color</string>
+    <string name="_hint">Enter text</string>
+</resources>
